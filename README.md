@@ -4,9 +4,9 @@ This project was generated with Angular CLI version 8.3.2.
 
 ## Follow the below steps to run the application
 
-   Make Sure you have installed Node and Angular 
-   Install node modules using 'npm install' 
-   Run `ng serve` command which will start the dev server. Please Navigate to `http://localhost:4200/` to see the test application
+  1) Make Sure you have installed Node and Angular 
+  2) Install node modules using `npm install`
+  3) Run `ng serve` command which will start the dev server. Please Navigate to `http://localhost:4200/` to see the test application
 
 ## Running unit tests
 
